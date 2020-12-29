@@ -1,0 +1,2 @@
+# 21.Activity_CheckNetwork
+ Check the current network status. When there is a network status, show-"Internet available". And it will show that if you are using a mobile network or wifi, and there is no network, a message window will appear, displaying "There is no network currently, do you want to go to the settings?" Select the "Set up network" item and jump to the system's wifi settings Page, select "No setting" and close the window
